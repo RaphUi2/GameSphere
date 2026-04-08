@@ -1,0 +1,5 @@
+{
+  "name": "GameSphere",
+  "description": "Une application de découverte de jeux vidéo ultra-complète utilisant l'IA pour explorer tous les titres mondiaux, y compris les jeux à venir et les sous-jeux (Roblox, Fortnite, etc.).",
+  "requestFramePermissions": ["camera"]
+}
